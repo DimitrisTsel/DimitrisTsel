@@ -1,6 +1,6 @@
 🚀 **Software engineer| MLOps and Data engineering enthusiast**
 
-👋 Hello, I'm Dimitris, a software engineer based in Athens.
+👋 Hello, I'm Dimitris, a software enginee, currently based in Athens.
 
 🔧 **Tech Toolbox:**
    - **Languages:** Python, C, Java
@@ -9,8 +9,8 @@
    - **Technologies:** Git, Docker, Kubernetes, Jenkins, Jira
 
 🌐 **Experience:**
-   - **Nokia:** Software Engineer R&D 5G SMSF
-   - **Agfa-Gevaert:** RnD Software Engineer – Image Processing Researcher (Internship)
+   - **Nokia:** Software Engineer R&D 5G SMSF (Athens, Greece)
+   - **Agfa-Gevaert:** RnD Software Engineer – Image Processing Researcher (Mortsel, Belgium)
 
 📚 **Education:**
 **MSc in Advanced Information Systems**
