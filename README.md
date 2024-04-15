@@ -1,6 +1,6 @@
 🚀 **Software engineer| MLOps and Data engineering enthusiast**
 
-👋 Hello, I'm Dimitris, a software enginee, currently based in Athens.
+👋 Hello, I'm Dimitris, a software engineer, currently based in Athens.
 
 🔧 **Tech Toolbox:**
    - **Languages:** Python, C, Java
