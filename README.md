@@ -18,8 +18,8 @@
 - ***Relevant Coursework:*** Java, algorithms and data structures, Information Systems - web applications, Relational -  non relational databases, cloud computing, Python, Data warehouses and Business Intelligence, Intelligent Systems and Artificial Intelligence, Data mining and analytics.
 - ***Thesis*** [Combining deep Learning, handcrafted features and metadata for the classification of dermoscopy images](https://dione.lib.unipi.gr/xmlui/handle/unipi/15875)
 
-## ⚡ Github Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitristsel)](https://github.com/airscholar/github-readme-stats)
+## ⚡ 
+[![My GitHub stats]
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitristsel&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
 
 🔗 **Connect with Me:**
