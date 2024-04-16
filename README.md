@@ -5,7 +5,7 @@
 🔧 **Tech Toolbox:**
    - **Languages:** Python, C, Java
    - **Frameworks:** Django, Flask, Kafka, Tensorflow 
-   - **Databases:** Elasticsearch, PostgreSQL, Cassandra
+   - **Databases:** Elasticsearch, Opensearch, PostgreSQL, Cassandra
    - **Technologies:** Git, Docker, Kubernetes, Jenkins, Jira
 
 🌐 **Experience:**
