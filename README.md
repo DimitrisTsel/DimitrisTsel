@@ -1,4 +1,4 @@
-🚀 **Software engineer| MLOps and Data engineering enthusiast**
+🚀 **Software engineer| ML and Data engineering enthusiast**
 
 👋 Hello, I'm Dimitris, a software engineer, currently based in Athens.
 
