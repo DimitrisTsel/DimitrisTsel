@@ -9,6 +9,7 @@
    - **Technologies:** Git, Docker, Kubernetes, Jenkins, Jira
 
 🌐 **Experience:**
+   - **Neurocom SA:** Data Engineer (Athens, Greece)
    - **Nokia:** Software Engineer R&D 5G SMSF (Athens, Greece)
    - **Agfa-Gevaert:** RnD Software Engineer – Image Processing Researcher (Mortsel, Belgium)
 
